@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gK6/giOlJPcDNoYrv8Ohz79kFXPoGXF9tCQwEx56kMr2ucyEbPKDdPL8YFJNcD0WixrXkpsTlkGBwUNp9z8IXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\webapidocker\\webapidocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
